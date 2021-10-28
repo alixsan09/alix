@@ -1,0 +1,6 @@
+print("De uma nota para o Alix")
+nota = int(input("Nota: ")) 
+if nota == 10:
+ print("Valeu Prof tmj")
+else:
+ print("Po Prof faz a boa ae")
